@@ -1,3 +1,5 @@
+# Fixed for Gradle 7.0
+
 # AndResGuard
 
 [![Build Status](https://travis-ci.org/shwenzhang/AndResGuard.svg?branch=master)](https://travis-ci.org/shwenzhang/AndResGuard)

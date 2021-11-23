@@ -20,7 +20,7 @@ artifacts {
 
 publishing {
   publications {
-    ResguardPub(MavenPublication) {
+    Resguard(MavenPublication) {
       from components.java
       groupId = group
       artifactId = POM_ARTIFACT_ID

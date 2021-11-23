@@ -1,3 +1,4 @@
+# Fixed for Gradle 7.0
 #  Android资源混淆工具使用说明 #
 
 [![Build Status](https://travis-ci.org/shwenzhang/AndResGuard.svg?branch=master)](https://travis-ci.org/shwenzhang/AndResGuard)
